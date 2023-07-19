@@ -29,7 +29,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  ([https://github-readme-stats.vercel.app/api?username=skacauold&show_icons=true&theme=dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skacauold&show_icons=true&theme=dark))
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skacauold&show_icons=true&theme=dark)
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
@@ -43,5 +43,5 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=skacauold&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
 </p>
