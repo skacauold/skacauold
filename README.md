@@ -19,12 +19,4 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! 
 
 ## About Me
-None. 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skacauold)](https://github.com/skacauold/github-readme-stats)
-
-## Contact Me
-
-You can reach me via email at skacauold@gmail.com. 
-Connect with me on LinkedIn: [link to your LinkedIn profile].
-
-Feel free to contact
